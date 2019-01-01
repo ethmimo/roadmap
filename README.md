@@ -3,7 +3,7 @@
 ## Q1 2019
 1. Ship Mimo v1 aka "Minimo"
 2. Refactor mimo.js
-3. Ship mimo-qr
+3. Ship mimo-ql
 
 ## Q2 2019
 1. Ship Mimo v2
